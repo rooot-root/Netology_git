@@ -16,5 +16,5 @@ https://github.com/rooot-root/Netology_git/commit/8664c36
 [Ссылка на граф коммитов](https://github.com/rooot-root/Netology_git/network)
 
 ## Задание 4* (Конфликт)
-[Ссылка на коммит с merge и разрешением конфликта](https://github.com/rooot-root/Netology_git/commit/ХЕШ_КОММИТА)
+[Ссылка на коммит с merge и разрешением конфликта](https://github.com/rooot-root/Netology_git/commit/bdf925c)
 [Ссылка на граф коммитов](https://github.com/rooot-root/Netology_git/network)
