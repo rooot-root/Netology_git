@@ -10,3 +10,7 @@ https://github.com/rooot-root/Netology_git/commit/8664c36
 
 ### Задание 2
 [Ссылка на коммит с .gitignore](https://github.com/rooot-root/Netology_git/commit/aa8388a)
+
+## Задание 3
+[Ссылка на коммит с merge](https://github.com/rooot-root/Netology_git/commit/f145176)
+[Ссылка на граф коммитов](https://github.com/rooot-root/Netology_git/network)
